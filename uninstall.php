@@ -1,0 +1,2 @@
+<?php if(!defined("WP_\x55\x4e\x49N\x53TA\x4c\x4c\x5fP\x4cU\x47\x49N")){exit;}
+?>

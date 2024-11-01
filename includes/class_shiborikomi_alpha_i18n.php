@@ -1,0 +1,2 @@
+<?php class Shiborikomi_Alpha_i18n{public function load_plugin_textdomain(){load_plugin_textdomain("sh\x69\x62ori\x6b\x6f\x6d\x69\x5f\x61\x6cp\x68a",false,dirname(dirname(plugin_basename(__FILE__)))."/\x6c\x61ng\x75\x61g\x65s/");}}
+?>
